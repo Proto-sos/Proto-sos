@@ -16,16 +16,16 @@
       ![Static Badge](https://img.shields.io/badge/Fast%20Api%20-%20green?style=plastic)
     
 
-<br>   
-<br>
-<br>
+  <br>   
+    <br>
+    <br>
 
-![Static Badge](https://img.shields.io/badge/JavaScript%20-%20blue?style=plastic)
-<br>
-![Static Badge](https://img.shields.io/badge/Nodejs%20-%20green?style=plastic)
-<br>
-![Static Badge](https://img.shields.io/badge/Express%20-%20green?style=plastic)
-<br>
-![Static Badge](https://img.shields.io/badge/TypeScript%20-%20green?style=plastic)
+    ![Static Badge](https://img.shields.io/badge/JavaScript%20-%20blue?style=plastic)
+  <br>
+    ![Static Badge](https://img.shields.io/badge/Nodejs%20-%20green?style=plastic)
+  <br>
+    ![Static Badge](https://img.shields.io/badge/Express%20-%20green?style=plastic)
+  <br>
+    ![Static Badge](https://img.shields.io/badge/TypeScript%20-%20green?style=plastic)
 
 
